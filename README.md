@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaanTopkara
 - 👀 I’m interested in developing games on Unity
 - 🌱 I’m currently learning Digital Game Design and Educational Technologies
-- 💞️ I’m looking to collaborate on artists and developers who wants to make beautiful games.
+- I’m looking to collaborate on artists and developers who wants to make beautiful games.
 - 📫 How to reach me by my email: furkankaantopkara@gmail.com
 
 <!---
